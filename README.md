@@ -2,7 +2,7 @@
 
 Upload an invoice or receipt (PDF, PNG, JPG) and get structured data back: vendor, invoice number, date, currency, line items, subtotal, tax and total. Download the result as JSON or CSV. Built with Streamlit.
 
-Live demo: `<add your deployed URL here>`
+Live demo: https://invoiceextractor-mu2suvyi68aeadwtrzwbgb.streamlit.app/
 
 ![Invoice & Receipt Extractor screenshot](docs/screenshot.png)
 
@@ -110,12 +110,6 @@ python scripts/evaluate.py --samples heldout --reports reports_heldout
 ```bash
 pytest -q
 ```
-
-## Deploy (Streamlit Community Cloud)
-
-1. Push this repo to GitHub (`.env` is git-ignored, only `.env.example` is committed).
-2. On share.streamlit.io choose the repo and `app.py` as the entry file. `packages.txt` installs the system libraries OpenCV needs.
-3. Optional: add `GEMINI_API_KEY` under App settings, Secrets. Never commit a real key.
 
 ## Project layout
 
