@@ -1,0 +1,1019 @@
+{
+  "invoice_01_layoutA.pdf": {
+    "vendor": "Bluebird Cafe",
+    "invoice_number": "INV-2026-0605",
+    "date": "2026-01-21",
+    "currency": "GBP",
+    "line_items": [
+      {
+        "description": "Blueberry Muffin",
+        "quantity": 1.0,
+        "unit_price": 2.42,
+        "amount": 2.42
+      },
+      {
+        "description": "Mineral Water",
+        "quantity": 4.0,
+        "unit_price": 1.68,
+        "amount": 6.72
+      }
+    ],
+    "subtotal": 9.14,
+    "tax": 1.83,
+    "total": 10.97,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "A"
+    }
+  },
+  "invoice_02_layoutA.pdf": {
+    "vendor": "Greenleaf Grocers",
+    "invoice_number": "R-30379",
+    "date": "2026-04-13",
+    "currency": "EUR",
+    "line_items": [
+      {
+        "description": "Bananas 1kg",
+        "quantity": 3.0,
+        "unit_price": 1.63,
+        "amount": 4.89
+      },
+      {
+        "description": "Free Range Eggs 12",
+        "quantity": 1.0,
+        "unit_price": 3.97,
+        "amount": 3.97
+      },
+      {
+        "description": "Orange Juice 1L",
+        "quantity": 1.0,
+        "unit_price": 3.02,
+        "amount": 3.02
+      }
+    ],
+    "subtotal": 11.88,
+    "tax": 2.49,
+    "total": 14.37,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "A"
+    }
+  },
+  "invoice_03_layoutA.pdf": {
+    "vendor": "Metro Hardware & Tools",
+    "invoice_number": "R-59615",
+    "date": "2026-02-25",
+    "currency": "PKR",
+    "line_items": [
+      {
+        "description": "Claw Hammer 16oz",
+        "quantity": 4.0,
+        "unit_price": 5130.28,
+        "amount": 20521.12
+      },
+      {
+        "description": "LED Bulb 4 Pack",
+        "quantity": 1.0,
+        "unit_price": 2272.53,
+        "amount": 2272.53
+      }
+    ],
+    "subtotal": 22793.65,
+    "tax": 4102.86,
+    "total": 26896.51,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "A"
+    }
+  },
+  "invoice_04_layoutA.pdf": {
+    "vendor": "Silverline Electronics",
+    "invoice_number": "INV-2026-0687",
+    "date": "2026-04-15",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "USB-C Cable 2m",
+        "quantity": 1.0,
+        "unit_price": 10.84,
+        "amount": 10.84
+      },
+      {
+        "description": "Wireless Mouse",
+        "quantity": 3.0,
+        "unit_price": 17.6,
+        "amount": 52.8
+      },
+      {
+        "description": "HDMI Adapter",
+        "quantity": 2.0,
+        "unit_price": 13.99,
+        "amount": 27.98
+      },
+      {
+        "description": "Bluetooth Speaker",
+        "quantity": 2.0,
+        "unit_price": 26.51,
+        "amount": 53.02
+      }
+    ],
+    "subtotal": 144.64,
+    "tax": 10.12,
+    "total": 154.76,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "A"
+    }
+  },
+  "invoice_05_layoutA.pdf": {
+    "vendor": "Orbit Cloud Hosting GmbH",
+    "invoice_number": "R-18675",
+    "date": "2026-09-20",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "SEO Audit Report",
+        "quantity": 1.0,
+        "unit_price": 307.98,
+        "amount": 307.98
+      },
+      {
+        "description": "Logo Design Package",
+        "quantity": 1.0,
+        "unit_price": 277.46,
+        "amount": 277.46
+      },
+      {
+        "description": "Consulting Hour",
+        "quantity": 1.0,
+        "unit_price": 66.03,
+        "amount": 66.03
+      }
+    ],
+    "subtotal": 651.47,
+    "tax": 53.75,
+    "total": 705.22,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "A"
+    }
+  },
+  "invoice_06_layoutB.pdf": {
+    "vendor": "Harvest Fresh Market",
+    "invoice_number": "86484",
+    "date": "2026-08-25",
+    "currency": "GBP",
+    "line_items": [
+      {
+        "description": "Cheddar Cheese 400g",
+        "quantity": 1.0,
+        "unit_price": 4.06,
+        "amount": 4.06
+      },
+      {
+        "description": "Olive Oil 500ml",
+        "quantity": 4.0,
+        "unit_price": 9.47,
+        "amount": 37.88
+      },
+      {
+        "description": "Free Range Eggs 12",
+        "quantity": 4.0,
+        "unit_price": 3.16,
+        "amount": 12.64
+      }
+    ],
+    "subtotal": null,
+    "tax": 10.92,
+    "total": 65.5,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "B"
+    }
+  },
+  "invoice_07_layoutB.pdf": {
+    "vendor": "Cedar & Pine Furniture",
+    "invoice_number": "INV-2026-0611",
+    "date": "2026-09-28",
+    "currency": "EUR",
+    "line_items": [
+      {
+        "description": "A4 Paper Ream",
+        "quantity": 1.0,
+        "unit_price": 5.19,
+        "amount": 5.19
+      },
+      {
+        "description": "Sticky Notes Pack",
+        "quantity": 3.0,
+        "unit_price": 5.17,
+        "amount": 15.51
+      },
+      {
+        "description": "Printer Ink Cartridge",
+        "quantity": 3.0,
+        "unit_price": 34.1,
+        "amount": 102.3
+      }
+    ],
+    "subtotal": null,
+    "tax": 25.83,
+    "total": 148.83,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "B"
+    }
+  },
+  "invoice_08_layoutB.pdf": {
+    "vendor": "Northwind Traders Co",
+    "invoice_number": "44522",
+    "date": "2026-09-21",
+    "currency": "PKR",
+    "line_items": [
+      {
+        "description": "Orange Juice 1L",
+        "quantity": 2.0,
+        "unit_price": 610.5,
+        "amount": 1221.0
+      },
+      {
+        "description": "Cheddar Cheese 400g",
+        "quantity": 3.0,
+        "unit_price": 1326.94,
+        "amount": 3980.82
+      }
+    ],
+    "subtotal": null,
+    "tax": 884.31,
+    "total": 6086.13,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "B"
+    }
+  },
+  "invoice_09_layoutB.pdf": {
+    "vendor": "Lahore Digital Solutions",
+    "invoice_number": "INV-2026-0115",
+    "date": "2026-05-19",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "SEO Audit Report",
+        "quantity": 1.0,
+        "unit_price": 505.0,
+        "amount": 505.0
+      },
+      {
+        "description": "Cloud Hosting Plan",
+        "quantity": 3.0,
+        "unit_price": 123.85,
+        "amount": 371.55
+      }
+    ],
+    "subtotal": null,
+    "tax": 61.36,
+    "total": 937.91,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "B"
+    }
+  },
+  "invoice_10_layoutC.pdf": {
+    "vendor": "Pixel Forge Studio",
+    "invoice_number": "89507",
+    "date": "2026-02-15",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Domain Renewal",
+        "quantity": 1.0,
+        "unit_price": 24.67,
+        "amount": 24.67
+      },
+      {
+        "description": "Logo Design Package",
+        "quantity": 3.0,
+        "unit_price": 149.53,
+        "amount": 448.59
+      },
+      {
+        "description": "Website Maintenance (monthly)",
+        "quantity": 1.0,
+        "unit_price": 386.71,
+        "amount": 386.71
+      }
+    ],
+    "subtotal": 859.97,
+    "tax": 70.95,
+    "total": 930.92,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "C"
+    }
+  },
+  "invoice_11_layoutC.pdf": {
+    "vendor": "The Daily Grind",
+    "invoice_number": "R-14117",
+    "date": "2026-07-24",
+    "currency": "GBP",
+    "line_items": [
+      {
+        "description": "Iced Latte",
+        "quantity": 1.0,
+        "unit_price": 3.5,
+        "amount": 3.5
+      },
+      {
+        "description": "Chicken Wrap",
+        "quantity": 4.0,
+        "unit_price": 6.18,
+        "amount": 24.72
+      },
+      {
+        "description": "Mineral Water",
+        "quantity": 4.0,
+        "unit_price": 1.55,
+        "amount": 6.2
+      },
+      {
+        "description": "Cappuccino",
+        "quantity": 1.0,
+        "unit_price": 3.17,
+        "amount": 3.17
+      }
+    ],
+    "subtotal": 37.59,
+    "tax": 7.52,
+    "total": 45.11,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "C"
+    }
+  },
+  "invoice_12_layoutC.pdf": {
+    "vendor": "Sunrise Bakery",
+    "invoice_number": "INV-2026-0249",
+    "date": "2026-09-20",
+    "currency": "EUR",
+    "line_items": [
+      {
+        "description": "Club Sandwich",
+        "quantity": 4.0,
+        "unit_price": 7.2,
+        "amount": 28.8
+      },
+      {
+        "description": "Cheesecake Slice",
+        "quantity": 4.0,
+        "unit_price": 3.83,
+        "amount": 15.32
+      }
+    ],
+    "subtotal": 44.12,
+    "tax": 9.27,
+    "total": 53.39,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "C"
+    }
+  },
+  "invoice_13_layoutC.pdf": {
+    "vendor": "Falcon Stationers",
+    "invoice_number": "INV-2026-0063",
+    "date": "2026-07-24",
+    "currency": "PKR",
+    "line_items": [
+      {
+        "description": "Desk Organizer",
+        "quantity": 5.0,
+        "unit_price": 4219.97,
+        "amount": 21099.85
+      },
+      {
+        "description": "Sticky Notes Pack",
+        "quantity": 5.0,
+        "unit_price": 620.67,
+        "amount": 3103.35
+      }
+    ],
+    "subtotal": 24203.2,
+    "tax": 4114.54,
+    "total": 28317.74,
+    "meta": {
+      "type": "pdf_text",
+      "layout": "C"
+    }
+  },
+  "invoice_14_scanned_layoutA.pdf": {
+    "vendor": "Harvest Fresh Market",
+    "invoice_number": "INV-2026-0052",
+    "date": "2026-04-19",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Bananas 1kg",
+        "quantity": 2.0,
+        "unit_price": 1.63,
+        "amount": 3.26
+      },
+      {
+        "description": "Olive Oil 500ml",
+        "quantity": 1.0,
+        "unit_price": 7.78,
+        "amount": 7.78
+      },
+      {
+        "description": "Free Range Eggs 12",
+        "quantity": 4.0,
+        "unit_price": 3.61,
+        "amount": 14.44
+      }
+    ],
+    "subtotal": 25.48,
+    "tax": 1.78,
+    "total": 27.26,
+    "meta": {
+      "type": "pdf_scanned",
+      "layout": "A"
+    }
+  },
+  "invoice_15_scanned_layoutC.pdf": {
+    "vendor": "Acme Office Supplies Ltd",
+    "invoice_number": "R-51127",
+    "date": "2026-08-16",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Ballpoint Pens Box",
+        "quantity": 5.0,
+        "unit_price": 7.55,
+        "amount": 37.75
+      },
+      {
+        "description": "A4 Paper Ream",
+        "quantity": 4.0,
+        "unit_price": 7.78,
+        "amount": 31.12
+      },
+      {
+        "description": "Desk Organizer",
+        "quantity": 4.0,
+        "unit_price": 13.49,
+        "amount": 53.96
+      },
+      {
+        "description": "Printer Ink Cartridge",
+        "quantity": 4.0,
+        "unit_price": 39.94,
+        "amount": 159.76
+      }
+    ],
+    "subtotal": 282.59,
+    "tax": 19.78,
+    "total": 302.37,
+    "meta": {
+      "type": "pdf_scanned",
+      "layout": "C"
+    }
+  },
+  "receipt_01_clean.png": {
+    "vendor": "Northwind Traders Co",
+    "invoice_number": "R-76671",
+    "date": "2026-05-21",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Whole Milk 1L",
+        "quantity": 2.0,
+        "unit_price": 1.06,
+        "amount": 2.12
+      },
+      {
+        "description": "Basmati Rice 5kg",
+        "quantity": 3.0,
+        "unit_price": 14.9,
+        "amount": 44.7
+      },
+      {
+        "description": "Olive Oil 500ml",
+        "quantity": 4.0,
+        "unit_price": 7.26,
+        "amount": 29.04
+      }
+    ],
+    "subtotal": 75.86,
+    "tax": 5.31,
+    "total": 81.17,
+    "meta": {
+      "type": "image",
+      "style": 1,
+      "noise": "clean"
+    }
+  },
+  "receipt_02_rotate.png": {
+    "vendor": "Bluebird Cafe",
+    "invoice_number": "2026/988",
+    "date": "2026-06-26",
+    "currency": "GBP",
+    "line_items": [
+      {
+        "description": "Cappuccino",
+        "quantity": 2.0,
+        "unit_price": 4.48,
+        "amount": 8.96
+      },
+      {
+        "description": "Chicken Wrap",
+        "quantity": 5.0,
+        "unit_price": 7.27,
+        "amount": 36.35
+      },
+      {
+        "description": "Mineral Water",
+        "quantity": 2.0,
+        "unit_price": 1.58,
+        "amount": 3.16
+      },
+      {
+        "description": "Cheesecake Slice",
+        "quantity": 1.0,
+        "unit_price": 5.37,
+        "amount": 5.37
+      },
+      {
+        "description": "Iced Latte",
+        "quantity": 1.0,
+        "unit_price": 3.29,
+        "amount": 3.29
+      }
+    ],
+    "subtotal": 57.13,
+    "tax": 11.43,
+    "total": 68.56,
+    "meta": {
+      "type": "image",
+      "style": 2,
+      "noise": "rotate"
+    }
+  },
+  "receipt_03_blur.jpg": {
+    "vendor": "Greenleaf Grocers",
+    "invoice_number": "2026/465",
+    "date": "2026-09-27",
+    "currency": "EUR",
+    "line_items": [
+      {
+        "description": "Free Range Eggs 12",
+        "quantity": 1.0,
+        "unit_price": 2.66,
+        "amount": 2.66
+      },
+      {
+        "description": "Orange Juice 1L",
+        "quantity": 1.0,
+        "unit_price": 2.2,
+        "amount": 2.2
+      },
+      {
+        "description": "Bananas 1kg",
+        "quantity": 1.0,
+        "unit_price": 1.8,
+        "amount": 1.8
+      }
+    ],
+    "subtotal": 6.66,
+    "tax": 1.4,
+    "total": 8.06,
+    "meta": {
+      "type": "image",
+      "style": 3,
+      "noise": "blur"
+    }
+  },
+  "receipt_04_jpeg.jpg": {
+    "vendor": "Metro Hardware & Tools",
+    "invoice_number": "R-17979",
+    "date": "2026-08-27",
+    "currency": "PKR",
+    "line_items": [
+      {
+        "description": "Wood Screws Box",
+        "quantity": 1.0,
+        "unit_price": 1473.97,
+        "amount": 1473.97
+      },
+      {
+        "description": "Cordless Drill Bit Set",
+        "quantity": 3.0,
+        "unit_price": 5125.85,
+        "amount": 15377.55
+      },
+      {
+        "description": "Safety Gloves",
+        "quantity": 2.0,
+        "unit_price": 1369.29,
+        "amount": 2738.58
+      },
+      {
+        "description": "Claw Hammer 16oz",
+        "quantity": 5.0,
+        "unit_price": 5288.6,
+        "amount": 26443.0
+      },
+      {
+        "description": "Extension Cord 5m",
+        "quantity": 3.0,
+        "unit_price": 3714.24,
+        "amount": 11142.72
+      }
+    ],
+    "subtotal": 57175.82,
+    "tax": 9719.89,
+    "total": 66895.71,
+    "meta": {
+      "type": "image",
+      "style": 1,
+      "noise": "jpeg"
+    }
+  },
+  "receipt_05_shadow.jpg": {
+    "vendor": "The Daily Grind",
+    "invoice_number": "R-38672",
+    "date": "2026-07-24",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Club Sandwich",
+        "quantity": 1.0,
+        "unit_price": 5.72,
+        "amount": 5.72
+      },
+      {
+        "description": "Chicken Wrap",
+        "quantity": 5.0,
+        "unit_price": 6.64,
+        "amount": 33.2
+      }
+    ],
+    "subtotal": 38.92,
+    "tax": 2.72,
+    "total": 41.64,
+    "meta": {
+      "type": "image",
+      "style": 2,
+      "noise": "shadow"
+    }
+  },
+  "receipt_06_lowcontrast.png": {
+    "vendor": "Silverline Electronics",
+    "invoice_number": "R-27940",
+    "date": "2026-03-16",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "HDMI Adapter",
+        "quantity": 1.0,
+        "unit_price": 8.1,
+        "amount": 8.1
+      },
+      {
+        "description": "Wireless Mouse",
+        "quantity": 1.0,
+        "unit_price": 11.75,
+        "amount": 11.75
+      }
+    ],
+    "subtotal": 19.85,
+    "tax": 1.39,
+    "total": 21.24,
+    "meta": {
+      "type": "image",
+      "style": 3,
+      "noise": "lowcontrast"
+    }
+  },
+  "receipt_07_speckle.png": {
+    "vendor": "Sunrise Bakery",
+    "invoice_number": "R-14028",
+    "date": "2026-09-17",
+    "currency": "GBP",
+    "line_items": [
+      {
+        "description": "Blueberry Muffin",
+        "quantity": 1.0,
+        "unit_price": 3.38,
+        "amount": 3.38
+      },
+      {
+        "description": "Club Sandwich",
+        "quantity": 1.0,
+        "unit_price": 7.68,
+        "amount": 7.68
+      },
+      {
+        "description": "Cheesecake Slice",
+        "quantity": 1.0,
+        "unit_price": 5.77,
+        "amount": 5.77
+      }
+    ],
+    "subtotal": 16.83,
+    "tax": 3.37,
+    "total": 20.2,
+    "meta": {
+      "type": "image",
+      "style": 1,
+      "noise": "speckle"
+    }
+  },
+  "receipt_08_clean.png": {
+    "vendor": "Harvest Fresh Market",
+    "invoice_number": "2026/938",
+    "date": "2026-08-23",
+    "currency": "EUR",
+    "line_items": [
+      {
+        "description": "Basmati Rice 5kg",
+        "quantity": 2.0,
+        "unit_price": 13.67,
+        "amount": 27.34
+      },
+      {
+        "description": "Free Range Eggs 12",
+        "quantity": 5.0,
+        "unit_price": 2.66,
+        "amount": 13.3
+      },
+      {
+        "description": "Olive Oil 500ml",
+        "quantity": 2.0,
+        "unit_price": 5.99,
+        "amount": 11.98
+      },
+      {
+        "description": "Cheddar Cheese 400g",
+        "quantity": 1.0,
+        "unit_price": 5.88,
+        "amount": 5.88
+      },
+      {
+        "description": "Orange Juice 1L",
+        "quantity": 5.0,
+        "unit_price": 2.99,
+        "amount": 14.95
+      }
+    ],
+    "subtotal": 73.45,
+    "tax": 13.96,
+    "total": 87.41,
+    "meta": {
+      "type": "image",
+      "style": 2,
+      "noise": "clean"
+    }
+  },
+  "receipt_09_rotate.png": {
+    "vendor": "Quantum Repair Works",
+    "invoice_number": "2026/287",
+    "date": "2026-07-25",
+    "currency": "PKR",
+    "line_items": [
+      {
+        "description": "LED Bulb 4 Pack",
+        "quantity": 1.0,
+        "unit_price": 3346.22,
+        "amount": 3346.22
+      },
+      {
+        "description": "Safety Gloves",
+        "quantity": 1.0,
+        "unit_price": 2617.81,
+        "amount": 2617.81
+      },
+      {
+        "description": "Claw Hammer 16oz",
+        "quantity": 1.0,
+        "unit_price": 2652.02,
+        "amount": 2652.02
+      }
+    ],
+    "subtotal": 8616.05,
+    "tax": 1464.73,
+    "total": 10080.78,
+    "meta": {
+      "type": "image",
+      "style": 3,
+      "noise": "rotate"
+    }
+  },
+  "receipt_10_blur.jpg": {
+    "vendor": "Northwind Traders Co",
+    "invoice_number": "R-94451",
+    "date": "2026-02-26",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Cheddar Cheese 400g",
+        "quantity": 1.0,
+        "unit_price": 5.47,
+        "amount": 5.47
+      },
+      {
+        "description": "Whole Milk 1L",
+        "quantity": 2.0,
+        "unit_price": 1.71,
+        "amount": 3.42
+      },
+      {
+        "description": "Basmati Rice 5kg",
+        "quantity": 2.0,
+        "unit_price": 12.5,
+        "amount": 25.0
+      },
+      {
+        "description": "Free Range Eggs 12",
+        "quantity": 1.0,
+        "unit_price": 4.82,
+        "amount": 4.82
+      }
+    ],
+    "subtotal": 38.71,
+    "tax": 2.71,
+    "total": 41.42,
+    "meta": {
+      "type": "image",
+      "style": 1,
+      "noise": "blur"
+    }
+  },
+  "receipt_11_jpeg.jpg": {
+    "vendor": "Bluebird Cafe",
+    "invoice_number": "R-75693",
+    "date": "2026-06-26",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Club Sandwich",
+        "quantity": 5.0,
+        "unit_price": 6.19,
+        "amount": 30.95
+      },
+      {
+        "description": "Iced Latte",
+        "quantity": 1.0,
+        "unit_price": 4.92,
+        "amount": 4.92
+      },
+      {
+        "description": "Cheesecake Slice",
+        "quantity": 2.0,
+        "unit_price": 3.91,
+        "amount": 7.82
+      },
+      {
+        "description": "Chicken Wrap",
+        "quantity": 3.0,
+        "unit_price": 5.89,
+        "amount": 17.67
+      },
+      {
+        "description": "Cappuccino",
+        "quantity": 3.0,
+        "unit_price": 3.15,
+        "amount": 9.45
+      }
+    ],
+    "subtotal": 70.81,
+    "tax": 5.84,
+    "total": 76.65,
+    "meta": {
+      "type": "image",
+      "style": 2,
+      "noise": "jpeg"
+    }
+  },
+  "receipt_12_shadow.jpg": {
+    "vendor": "Greenleaf Grocers",
+    "invoice_number": "INV-2026-0033",
+    "date": "2026-05-25",
+    "currency": "GBP",
+    "line_items": [
+      {
+        "description": "Basmati Rice 5kg",
+        "quantity": 1.0,
+        "unit_price": 8.18,
+        "amount": 8.18
+      },
+      {
+        "description": "Olive Oil 500ml",
+        "quantity": 1.0,
+        "unit_price": 6.11,
+        "amount": 6.11
+      }
+    ],
+    "subtotal": 14.29,
+    "tax": 2.86,
+    "total": 17.15,
+    "meta": {
+      "type": "image",
+      "style": 3,
+      "noise": "shadow"
+    }
+  },
+  "receipt_13_lowcontrast.png": {
+    "vendor": "Metro Hardware & Tools",
+    "invoice_number": "2026/751",
+    "date": "2026-08-22",
+    "currency": "EUR",
+    "line_items": [
+      {
+        "description": "LED Bulb 4 Pack",
+        "quantity": 3.0,
+        "unit_price": 9.46,
+        "amount": 28.38
+      },
+      {
+        "description": "Safety Gloves",
+        "quantity": 3.0,
+        "unit_price": 6.42,
+        "amount": 19.26
+      }
+    ],
+    "subtotal": 47.64,
+    "tax": 10.0,
+    "total": 57.64,
+    "meta": {
+      "type": "image",
+      "style": 1,
+      "noise": "lowcontrast"
+    }
+  },
+  "receipt_14_speckle.png": {
+    "vendor": "The Daily Grind",
+    "invoice_number": "R-84944",
+    "date": "2026-01-16",
+    "currency": "PKR",
+    "line_items": [
+      {
+        "description": "Blueberry Muffin",
+        "quantity": 4.0,
+        "unit_price": 986.55,
+        "amount": 3946.2
+      },
+      {
+        "description": "Mineral Water",
+        "quantity": 4.0,
+        "unit_price": 469.48,
+        "amount": 1877.92
+      },
+      {
+        "description": "Cappuccino",
+        "quantity": 3.0,
+        "unit_price": 957.01,
+        "amount": 2871.03
+      }
+    ],
+    "subtotal": 8695.15,
+    "tax": 1565.13,
+    "total": 10260.28,
+    "meta": {
+      "type": "image",
+      "style": 2,
+      "noise": "speckle"
+    }
+  },
+  "receipt_15_clean.png": {
+    "vendor": "Silverline Electronics",
+    "invoice_number": "R-31660",
+    "date": "2026-04-22",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Power Bank 10000mAh",
+        "quantity": 1.0,
+        "unit_price": 20.62,
+        "amount": 20.62
+      },
+      {
+        "description": "Wireless Mouse",
+        "quantity": 1.0,
+        "unit_price": 20.69,
+        "amount": 20.69
+      },
+      {
+        "description": "USB-C Cable 2m",
+        "quantity": 1.0,
+        "unit_price": 7.88,
+        "amount": 7.88
+      }
+    ],
+    "subtotal": 49.19,
+    "tax": 4.06,
+    "total": 53.25,
+    "meta": {
+      "type": "image",
+      "style": 3,
+      "noise": "clean"
+    }
+  }
+}
